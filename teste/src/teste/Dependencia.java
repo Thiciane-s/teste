@@ -65,19 +65,6 @@ public class Dependencia {
 				
 			}
 		
-	/**public static void main(String args[]) {
-				//Inserir a quantidade de entradas de dependencias
-				Dependencia g = new Dependencia (5);
-				//Entrada das dependencias
-				g.delimitaLista('C', 'A'); // A -> E
-				g.delimitaLista('C', 'B'); // A -> C
-				g.delimitaLista('C', 'D'); // B -> A
-				g.delimitaLista('E', 'A'); // D -> A
-				
-				
-				System.out.println("LISTA DE DEPENDENCIAS ");
-				//Chama o metodo que faz o ordenamento da lista
-				g.dependencia();
-			}**/
+	
 
 }
